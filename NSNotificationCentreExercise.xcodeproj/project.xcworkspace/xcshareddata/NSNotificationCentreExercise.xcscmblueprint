@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "353F3F40E4B327B16FC638081D3CE1816867C475",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3C4A92DDC0D4B8043683D5AE502B578294D78D08" : 9223372036854775807,
+    "353F3F40E4B327B16FC638081D3CE1816867C475" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2C01D81B-A9BB-45F9-9880-6B510647E1F9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3C4A92DDC0D4B8043683D5AE502B578294D78D08" : "",
+    "353F3F40E4B327B16FC638081D3CE1816867C475" : "NSNotificationCentreExercise\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "NSNotificationCentreExercise",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "NSNotificationCentreExercise.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jimmyhoang\/nsnotificationcenterexercise.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "353F3F40E4B327B16FC638081D3CE1816867C475"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jimmyhoang\/lighthouselabs.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3C4A92DDC0D4B8043683D5AE502B578294D78D08"
+    }
+  ]
+}

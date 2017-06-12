@@ -15,6 +15,7 @@
 		FF087FC41EEE63DF00CB83D7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FF087FC31EEE63DF00CB83D7 /* Assets.xcassets */; };
 		FF087FC71EEE63DF00CB83D7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FF087FC51EEE63DF00CB83D7 /* LaunchScreen.storyboard */; };
 		FF087FD21EEE63E000CB83D7 /* NSNotificationCentreExerciseTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FF087FD11EEE63E000CB83D7 /* NSNotificationCentreExerciseTests.m */; };
+		FF087FDE1EEE718200CB83D7 /* ThirdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FF087FDD1EEE718200CB83D7 /* ThirdViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,6 +44,8 @@
 		FF087FCD1EEE63E000CB83D7 /* NSNotificationCentreExerciseTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NSNotificationCentreExerciseTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FF087FD11EEE63E000CB83D7 /* NSNotificationCentreExerciseTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NSNotificationCentreExerciseTests.m; sourceTree = "<group>"; };
 		FF087FD31EEE63E000CB83D7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FF087FDC1EEE718200CB83D7 /* ThirdViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThirdViewController.h; sourceTree = "<group>"; };
+		FF087FDD1EEE718200CB83D7 /* ThirdViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThirdViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +93,8 @@
 				FF087FBB1EEE63DF00CB83D7 /* FirstViewController.m */,
 				FF087FBD1EEE63DF00CB83D7 /* SecondViewController.h */,
 				FF087FBE1EEE63DF00CB83D7 /* SecondViewController.m */,
+				FF087FDC1EEE718200CB83D7 /* ThirdViewController.h */,
+				FF087FDD1EEE718200CB83D7 /* ThirdViewController.m */,
 				FF087FC01EEE63DF00CB83D7 /* Main.storyboard */,
 				FF087FC31EEE63DF00CB83D7 /* Assets.xcassets */,
 				FF087FC51EEE63DF00CB83D7 /* LaunchScreen.storyboard */,
@@ -221,6 +226,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FF087FBF1EEE63DF00CB83D7 /* SecondViewController.m in Sources */,
+				FF087FDE1EEE718200CB83D7 /* ThirdViewController.m in Sources */,
 				FF087FB91EEE63DF00CB83D7 /* AppDelegate.m in Sources */,
 				FF087FBC1EEE63DF00CB83D7 /* FirstViewController.m in Sources */,
 				FF087FB61EEE63DF00CB83D7 /* main.m in Sources */,
